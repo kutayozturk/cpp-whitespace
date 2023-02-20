@@ -37,5 +37,5 @@ kullanacağımız karakterlerin başında etkisiz boşluk karakterleri gelmekted
 |\a | Alarm | Uyarı amaçlı bir ses çıkarmak |
 |\b | Backspace (Geri Al) | Kendinden önceki karakteri silmek |
 |\0 | Null |Karakter dizilerini string haline getirmek |
-|\\ | \ karakterini kullanabilmek için \\ şeklinde yazılır |
-|\" | " karakterini kullanabilmek için \" şeklinde kullanılır |
+|\\ | \ karakterini kullanabilmek için \ \ şeklinde yazılır  | (Arada boşluk bırakılmaz) |
+|\" | " karakterini kullanabilmek için \ " şeklinde kullanılır | (Arada boşluk bırakılmaz) |
